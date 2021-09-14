@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Darkness Volt's stats](https://github-readme-stats.vercel.app/api?username=DarknessVolt)](https://github.com/anuraghazr/github-readme-stats)
 
 <!--
 **DarknessVolt/DarknessVolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
